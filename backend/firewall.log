@@ -1,0 +1,7 @@
+2026-01-08 15:53:20,772 - INFO - Root endpoint accessed
+2026-01-08 15:53:20,773 - INFO - GET / Status=200
+2026-01-08 15:53:28,364 - INFO - GET /detect Status=401
+2026-01-08 15:53:29,880 - INFO - GET /detect Status=401
+2026-01-08 15:53:40,076 - INFO - GET /history Status=404
+2026-01-08 15:53:49,864 - INFO - GET /docs Status=200
+2026-01-08 15:53:49,929 - INFO - GET /openapi.json Status=200
